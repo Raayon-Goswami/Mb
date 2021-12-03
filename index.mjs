@@ -13,7 +13,8 @@ client.on("ready", () => {
 client.on("messageCreate", (message) => {
   if (message.content === "mb!help") {
     message.reply({
-      content: "the bot developing is in progress",
+      content:
+        "||never gonna give you up||, the bot isnt done developing yet you dumb(except for raayon if he is testing)",
     });
   }
 });
